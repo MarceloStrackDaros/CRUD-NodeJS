@@ -3,7 +3,14 @@
     {
       "id": "3fa48176-e014-11ec-9d64-0242ac120002",
       "titulo": "Post 1",
-      "conteudo": 32,
+      "conteudo": "content",
+      "autor": "Marcelo",
+      "ano": 2022
+    },
+    {
+      "id": "4fa48176-e014-11ec-9d64-1353bd231113",
+      "titulo": "Post 2",
+      "conteudo": "content",
       "autor": "Marcelo",
       "ano": 2022
     }
